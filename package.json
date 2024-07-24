@@ -18,8 +18,8 @@
     "react-component",
     "npm-package"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "Aavash Baral",
+  "license": "MIT",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
@@ -33,5 +33,12 @@
     "rollup-plugin-peer-deps-external": "^2.2.4",
     "rollup-plugin-typescript2": "^0.36.0",
     "typescript": "^5.5.4"
-  }
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "bugs": {
+    "url": "https://github.com/iaavas/react-count-animate/issues"
+  },
+  "homepage": "https://github.com/iaavas/react-count-animate#readme"
 }
