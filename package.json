@@ -6,7 +6,18 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iaavas/react-count-animate"
+  },
+  "keywords": [
+    "react",
+    "animation",
+    "number",
+    "increment",
+    "react-component",
+    "npm-package"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
