@@ -101,7 +101,7 @@ npm run build
 
 ## License
 
-This project is licensed under the [MIT License]('./LICENSE'). See the LICENSE file for details
+This project is licensed under the [MIT License]('https://github.com/iaavas/react-count-animate/blob/master/LICENSE'). See the LICENSE file for details
 
 ## Acknowledgments
 
